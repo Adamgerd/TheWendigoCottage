@@ -48,4 +48,3 @@ def act1(): #Act I "Dinner"
             
 intro()      
 act1()
-print(w)
